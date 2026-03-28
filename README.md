@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I am a **Full-Stack Developer** and Software Engineering student currently pursuing a Higher National Diploma (HND) at the **Institute of Software Engineering**. Based in **Galle, Sri Lanka**, I am passionate about building scalable web solutions and professional desktop applications.
+I am a **Full-Stack Developer** and Software Engineering student currently pursuing a Higher Diploma at the **Institute of Software Engineering**. Based in **Galle, Sri Lanka**, I am passionate about building scalable web solutions and professional desktop applications.
 
 * 🔭 **Current Focus:** Advanced **Web Development**, crafting responsive and high-performance user experiences.
 * 🛡️ **Interests:** AI Software Engineering, Cyber Security, and Quality Assurance (QA).
