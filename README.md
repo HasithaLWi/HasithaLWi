@@ -1,12 +1,12 @@
 # 🚀 Full-Stack Developer | Software Engineering Student
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=220&section=header&text=Hasitha%20Wijesinghe&fontSize=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=220&section=header&text=Hasitha%20Wijesinghe&fontSize=70&fontColor=ffffff" width="100%" />
 </div>
 
 ## 👨‍💻 About Me
 
-* 🎓 **Education:** Pursuing a Higher National Diploma (HND) at the **Institute of Software Engineering**.
+* 🎓 **Education:** Pursuing a Higher Diploma at the **Institute of Software Engineering**.
 * 🔭 **Current Focus:** Developing the **ETec Management System**, a professional JavaFX-based management solution.
 * 🛡️ **Interests:** Deeply passionate about **AI Software Engineering**, **Cyber Security**, and **QA Engineering**.
 * 📍 **Location:** Based in **Galle, Sri Lanka**.
@@ -40,6 +40,6 @@
 ---
 
 ## 📫 Connect with Me
-* 💼 **LinkedIn:** [Your LinkedIn URL Here]
-* 🌍 **Portfolio:** [Your Portfolio Website URL Here]
-* 📧 **Email:** [Your Email Address Here]
+* 💼 **LinkedIn:** 
+* 🌍 **Portfolio:**
+* 📧 **Email:** hasithawijesinghe2020@gmail.com
