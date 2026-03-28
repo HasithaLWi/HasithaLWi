@@ -4,12 +4,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=220&section=header&text=Hasitha%20Wijesinghe&fontSize=70&fontColor=ffffff" width="100%" />
 </div>
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-* 🎓 **Education:** Pursuing a Higher Diploma at the **Institute of Software Engineering**.
-* 🔭 **Current Focus:** Developing the **ETec Management System**, a professional JavaFX-based management solution.
-* 🛡️ **Interests:** Deeply passionate about **AI Software Engineering**, **Cyber Security**, and **QA Engineering**.
-* 📍 **Location:** Based in **Galle, Sri Lanka**.
+I am a **Full-Stack Developer** and Software Engineering student currently pursuing a Higher National Diploma (HND) at the **Institute of Software Engineering**. Based in **Galle, Sri Lanka**, I am passionate about building scalable web solutions and professional desktop applications.
+
+* 🔭 **Current Focus:** Advanced **Web Development**, crafting responsive and high-performance user experiences.
+* 🛡️ **Interests:** AI Software Engineering, Cyber Security, and Quality Assurance (QA).
+* 🎨 **Design:** I believe great code starts with great design; I use **Figma** to bridge that gap.
 
 ---
 
@@ -32,8 +33,8 @@
 ## 📊 GitHub Ecosystem
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HasithaLWi&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasithaLWi&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </div>
 
 
@@ -41,5 +42,5 @@
 
 ## 📫 Connect with Me
 * 💼 **LinkedIn:** 
-* 🌍 **Portfolio:**
+* 🌍 **Portfolio:**https://hasithalwi.github.io/Personal-Portfolio-Website/
 * 📧 **Email:** hasithawijesinghe2020@gmail.com
