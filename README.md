@@ -1,7 +1,7 @@
 # 🚀 Full-Stack Developer | Software Engineering Student
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hasitha%20Wijesinghe&fontSize=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=220&section=header&text=Hasitha%20Wijesinghe&fontSize=70" width="100%" />
 </div>
 
 ## 👨‍💻 About Me
