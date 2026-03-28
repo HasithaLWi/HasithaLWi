@@ -34,7 +34,6 @@ I am a **Full-Stack Developer** and Software Engineering student currently pursu
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=HasithaLWi&show_icons=true&theme=radical&rank_icon=github&title_color=007ACC&icon_color=007ACC" alt="GitHub Stats" height="180px" />
-  
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HasithaLWi&layout=compact&theme=radical&title_color=007ACC" alt="Top Languages" height="180px" />
 </div>
 
@@ -43,5 +42,5 @@ I am a **Full-Stack Developer** and Software Engineering student currently pursu
 
 ## 📫 Connect with Me
 * 💼 **LinkedIn:** 
-* 🌍 **Portfolio:**https://hasithalwi.github.io/Personal-Portfolio-Website/
+* 🌍 **Portfolio:** https://hasithalwi.github.io/Personal-Portfolio-Website/
 * 📧 **Email:** hasithawijesinghe2020@gmail.com
