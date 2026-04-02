@@ -37,7 +37,6 @@ I am a **Full-Stack Developer** and Software Engineering student currently pursu
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HasithaLWi&layout=compact&theme=radical&title_color=007ACC" alt="Top Languages" height="180px" />
 </div>
 
-
 ---
 
 ## 📫 Connect with Me
